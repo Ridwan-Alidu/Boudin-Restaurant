@@ -1,0 +1,52 @@
+.img1{
+	width: 30%;
+	
+}
+
+.images{
+	display: flex;
+	gap: 2rem;
+}{}
+
+.space{
+	margin-top: 3px;
+}
+
+.btn2{
+	width: 175%;
+}
+
+.clicks{
+	display: flex;
+/*	justify-content: space-between;*/
+}
+
+.space2{
+	margin-left: 175px;
+	margin-top: 2px;
+}
+
+.space3{
+	margin-left: 175px;
+	margin-top: 2px;
+}
+
+#up{
+	/*display: flex;
+	gap: 1rem;*/
+    margin-left: 1040px;
+}
+
+#up_2{
+	margin-left: 1060px;
+}
+
+.line{
+	border: 1px solid white;
+	margin-bottom: 15px;
+}
+
+.line2{
+	border: 1px solid white;
+	margin-bottom: 6px;
+}
